@@ -8,14 +8,14 @@ a I2C driver written in Python 3 for MicroPython.
 ### Prerequisites
 
 * Sensirion SCD30 Sensor Module
-* MicroPython board with I2C interface
+* WEMOS/LOLIN D1 mini ESP8266 based µC-board 
 
 ### Wiring
 
 Wire the I2C bus to the I2C bus on your MicroPython board. This is an example
 using the Pyboard D:
 
-| Pyboard       | SCD30         |
+| D1 mini       | SCD30         |
 | ------------- |---------------|
 | X15 (3V3)     | VDD           |
 | X14 (GND)     | GND           |
