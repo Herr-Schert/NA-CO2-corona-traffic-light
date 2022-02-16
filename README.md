@@ -1,6 +1,6 @@
-# Sensirion SCD30 CO² Sensor I2C driver for MicroPython
+# Sensirion SCD30 CO₂ Sensor I2C driver for MicroPython
 
-Sensirion SCD30 is a CO², Humidity and Temperature sensor on a module. This is
+Sensirion SCD30 is a CO₂, Humidity and Temperature sensor on a module. This is
 a I2C driver written in Python 3 for MicroPython.
 
 ## Getting Started
